@@ -36,7 +36,7 @@ Before you start, make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https:https://github.com/yadav-riya/Todolist
+   git clone https://github.com/yadav-riya/Todolist
 
 2.**Navigate to the Project Directory
 After cloning the repository, navigate into the project folder**:
